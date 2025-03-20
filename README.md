@@ -1,5 +1,7 @@
-# Hello! ✨
+# Hello! ✨  
 
-I’m **Emu Otori**, a **Computer Scientist** weaving code into magical creations. Exploring the realms of technology and crafting elegant solutions is my specialty.
+I'm **Emu Otori**, a **Computer Scientist** with a passion for servers, Linux, and hardware. I enjoy exploring technology and optimizing systems.  
 
-Explore my repositories and let’s create something wonderful together!
+In my free time, I like watching anime and playing games.  
+
+Feel free to check out my repositories!  
